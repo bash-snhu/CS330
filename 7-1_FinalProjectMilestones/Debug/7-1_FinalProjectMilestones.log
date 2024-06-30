@@ -1,0 +1,8 @@
+﻿  SceneManager.cpp
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(234,16): warning C4018: '<': signed/unsigned mismatch
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(535,12): warning C4101: 'model': unreferenced local variable
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(531,12): warning C4101: 'scale': unreferenced local variable
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(533,12): warning C4101: 'rotation2': unreferenced local variable
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(532,12): warning C4101: 'rotation': unreferenced local variable
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(534,12): warning C4101: 'translation': unreferenced local variable
+  7-1_FinalProjectMilestones.vcxproj -> C:\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
